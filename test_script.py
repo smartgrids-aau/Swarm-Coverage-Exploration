@@ -1,0 +1,1 @@
+print(list(f'scpp1\obstacle_maps\map{i}.png' for i in range(0,5)))

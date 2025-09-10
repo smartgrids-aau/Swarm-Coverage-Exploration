@@ -1,0 +1,5 @@
+__pycache__
+scpp1/__pycache__
+# results/*.csv
+results/*.Rhistory
+.Rproj.user
